@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Taylor AuBuchon
-I'm currently A Senior Population Health Operations Analyst with VillageMD
-I'm currently learning SQL and Python with goals to more effeciently manipulate and analyze data to provide higher quality patient care!
+ - I'm currently A Senior Population Health Operations Analyst with VillageMD
+ - I'm currently learning SQL and Python with goals to more effeciently manipulate and analyze data to provide higher quality patient care!
 
 📫 How to reach me: taaubuchon@gmail.com
 
